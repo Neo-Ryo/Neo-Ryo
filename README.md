@@ -3,7 +3,7 @@
 ![](deno-real.jpg)
 
 - 🔭 I’m currently working on ... an organizer for a futur big company
-- 🌱 I’m currently learning ... Docker, prisma, graphQL
+- 🌱 I’m currently learning ... Docker, prisma, graphQL, deno
 - 👯 I’m looking to collaborate on ... a revolutionnary app
 - 🤔 I’m looking for help with ... email server
 - 💬 Ask me about ... anything
