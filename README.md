@@ -1,6 +1,6 @@
 ## Hi, welcome on my github profile 👋
 
-![](deno-real.jpg)
+![deno](deno-real.jpg)
 
 - 🔭 I’m currently working on ... an organizer for a futur big company
 - 🌱 I’m currently learning ... Docker, prisma, graphQL, deno
