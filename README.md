@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+## Hi, welcome on my github profile 👋
 
 - 🔭 I’m currently working on ... an organizer for a futur big company
 - 🌱 I’m currently learning ... Docker, prisma, graphQL
