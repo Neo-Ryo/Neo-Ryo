@@ -1,9 +1,9 @@
 ## Hi, welcome on my github profile 👋
 
-![deno](deno-real.jpg)
-
+ <img src="https://tryhackme-badges.s3.amazonaws.com/NeoRyo.png" alt="TryHackMe">
+ 
 - 🔭 I’m currently working at Neomanis
-- 🌱 I’m improving my nodeJs skills
+- 🌱 I’m improving my nodeJs skills and learnin cyber security
 - 👯 I’m looking to collaborate on ambicious project with challenging code! 🚀🚀🚀
 - 💬 Ask me about anything
 - 📫 How to reach me: shout out loud.... [Linkedin](https://www.linkedin.com/in/marc-schiavone/)
