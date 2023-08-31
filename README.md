@@ -1,6 +1,6 @@
 ## Hi, welcome on my github profile 👋
 
- <img src="https://tryhackme.com/badge/1029377" alt="TryHackMe"> <img src="https://www.codewars.com/users/Neo-Ryo/badges/large" alt="codewars">
+ <script src="https://tryhackme.com/badge/1029377"></script> <img src="https://www.codewars.com/users/Neo-Ryo/badges/large" alt="codewars">
  
 - 🔭 I’m currently working at Neomanis
 - 🌱 I’m improving my nodeJs skills and learnin cyber security
