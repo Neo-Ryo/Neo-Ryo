@@ -1,5 +1,6 @@
 ## Hi, welcome on my github profile 👋
 
+  <script src="https://tryhackme.com/badge/1029377"></script>
   <img src="https://tryhackme-badges.s3.amazonaws.com/NeoRyo.png" alt="TryHackMe">
   <img src="https://www.codewars.com/users/Neo-Ryo/badges/large" alt="codewars">
  
