@@ -3,7 +3,7 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/NeoRyo.png" alt="TryHackMe">
   <img src="https://www.codewars.com/users/Neo-Ryo/badges/large" alt="codewars">
  
-- 🔭 I’m currently learning stuff in Cybersecurity 🏴‍☠️, video Games development, and japanese. I also try to setup a fast running environment mono repo with turbo repo ⚡⚡⚡
+- 🔭 I’m currently learning stuff in Cybersecurity 🏴‍☠️, video Games development, and japanese. I also try to setup a fast running environment mono repo with [turbo repo](https://turbo.build/repo/docs) ⚡⚡⚡
 - 🌱 I’m improving my skills as JS dev and in many domains
 - 👯 I’m looking to collaborate on ambicious project with challenging code! 🚀🚀🚀
 - 💬 Ask me about anything
